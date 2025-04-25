@@ -1,1 +1,1 @@
-console.log("Hello from Node.js! Updated by Jenkins/GitHub Actions!");
+console.log("Исправленный код - Hello from Node.js! Updated by Jenkins/GitHub Actions!");
